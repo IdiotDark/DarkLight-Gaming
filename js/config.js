@@ -66,8 +66,6 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{youtube: "yLN9tGbGlz8", name: "Courtesy Call"},
-	{youtube: "mxxVuDXJtrE", name: "Black Rose"},
-	{youtube: "pPV9NNvtL20", name: "Star Wars Theme"}
 ];
 
 /*Random music order?*/
